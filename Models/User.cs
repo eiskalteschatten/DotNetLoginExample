@@ -1,4 +1,4 @@
-namespace MvcMovie.Models;
+namespace DotNetLoginExample.Models;
 
 public class User
 {
